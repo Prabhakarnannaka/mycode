@@ -1,4 +1,4 @@
-# mycode
+# mycode (MoonShine)
 A complete Lua solution written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms.
 
 Features:
